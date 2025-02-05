@@ -115,7 +115,7 @@ width: 64px;
 height: 24px;
 background: var(--surface-color-hover);
 border: 1px solid var(--stroke-color);
--webkit-backdrop-filter: blur(4px);
+backdrop-filter:  blur(4px);
 border-radius: 9999px;  
 } /*SWITCH*/
 
