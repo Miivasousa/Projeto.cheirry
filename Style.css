@@ -181,3 +181,15 @@ text-align: center;
 font-weight: 500;
 font-size: 14px;
 }
+
+/*media queries*/
+
+@media (min-width: 700px) {
+    :root {
+        --bg-url: url(./assets/desktop-dark.png);
+    }
+
+    .light {
+        --bg-url: urs(./assets/Desktop-light.png);
+    }
+}
