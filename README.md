@@ -8,10 +8,6 @@ Lading Page - Curso de front-end.
 
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
@@ -25,8 +21,6 @@ Lading Page - Curso de front-end.
 <p align="center">
 
 <img alt="Desenvolvimento web" src=".github/avatar2.png" width="%">
-
-<img alt="Desenvolvimento web" src=".github/preview.jpg" width="100%">
 
 </p>
 
