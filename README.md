@@ -4,7 +4,7 @@
 Lading Page - Curso de front-end.
 </p>
 
-<p align="center">
+ <p align="center">
 
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@ Lading Page - Curso de front-end.
 
 <p align="center">
 
-<img alt="Desenvolvimento web" src=".github/avatar2.png" width="%">
+<img alt="Desenvolvimento web" src=".github/avatar2.png" width="10%">
 
 </p>
 
