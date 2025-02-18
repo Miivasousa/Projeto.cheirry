@@ -20,7 +20,7 @@ Lading Page - Curso de front-end.
 
 <p align="center">
 
-<img alt="Desenvolvimento web" src=".github/avatar2.png" width="10%">
+<img alt="Desenvolvimento web" src=".github/avatar2.png" width="50%">
 
 </p>
 
@@ -28,10 +28,9 @@ Lading Page - Curso de front-end.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML e CSS (flexbox)
 - JavaScript
 - Git e Github
-
 - Figma
 
 ## Projeto
