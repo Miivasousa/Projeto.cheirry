@@ -1,7 +1,7 @@
 <h1 align="center"> Cheirry.Beauty </h1>
 
 <p align="center">
-Lading Page - Curso de front-end.
+Lading Page - Frontend.
 </p>
 
  <p align="center">
